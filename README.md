@@ -1,4 +1,12 @@
-# Aurora Agent
+# Aurora Agent ⭐
+
+> 🚀 **Initial Release Available Now!**
+>
+> Download the exe and start using it guys! The codebase will be shared soon.
+>
+> 📦 **[Aurora_0.1.0_x64-setup.exe](assets/Aurora_0.1.0_x64-setup.exe)** - Download & Run!
+
+---
 
 An AI-powered agentic code editor that combines the familiarity of VS Code with advanced AI assistance capabilities.
 
